@@ -4,7 +4,7 @@ This project is in its infancy, and is currently only a placeholder for when I h
 
 Text2Solresol is a python module for converting an input string into Solresol.  Further, an audio representation of the sentence/word will be generated as well.
 
-```
+```python
 import text2solresol as tsr
 
 text_to_translate = "Hello World"
